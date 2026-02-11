@@ -15,6 +15,15 @@ I am passionate about solving real-world problems using Machine Learning and Ima
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## Activity
+<img
+  src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&hide_title=true&hide_border=true&theme=transparent"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&hide_border=true&theme=transparent"
+/>
+---
 
 ## GitHub Activity
 <p align="left">
