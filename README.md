@@ -16,9 +16,10 @@ I am passionate about solving real-world problems using Machine Learning and Ima
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+## GitHub Activity
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&hide_border=true&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&hide_border=true&theme=dark" />
+</p>
 
 </div>
