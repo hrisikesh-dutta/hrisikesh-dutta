@@ -103,8 +103,8 @@ hrisikesh = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hrisikesh--dutta-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrisikesh-dutta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/hrisikesh-dutta)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hrisikesh-dutta-32a21032b/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hrisikeshdutta8@email.com)
 
 </div>
 
